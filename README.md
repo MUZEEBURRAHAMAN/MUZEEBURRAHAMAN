@@ -23,7 +23,7 @@
 - ⚖️ E-sign & Workflow Automation
 
 ### 🌐 Portfolio
-https://muzeeb-urrahman.vercel.app/
+https://muzeeb-urrahaman.vercel.app/
 
 ### 📫 Connect with me
 LinkedIn: https://linkedin.com/in/muzeeburrahman
