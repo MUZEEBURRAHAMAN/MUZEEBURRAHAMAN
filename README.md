@@ -12,7 +12,6 @@
 Product Designer with 4.5+ years of experience designing AI, SaaS, and B2B products. I design end-to-end user experiences — from research and product strategy to high-fidelity UI, design systems, and developer handoff — and simplify complex workflows into products that solve real business problems.
 </p>
 
-<br/>
 
 ### Currently Building
 
