@@ -13,7 +13,7 @@ Product Designer with 4.5+ years of experience designing AI, SaaS, and B2B produ
 </p>
 
 
-### Currently Building
+### 🔷 Currently Building
 
 - **[GoFully](https://github.com/MUZEEBURRAHAMAN/gofully-extension)** — full-page screenshot Chrome extension with on-device OCR, a CleanShot-style annotation editor (arrows, shapes, blur/redact, crop), screenshot history, and PNG/JPG/WebP/PDF export. 100% on-device processing.
 - **[Catchly](https://github.com/MUZEEBURRAHAMAN/Catchly)** — privacy-first subscription tracker that catches forgotten subscriptions and price hikes, all in your browser.
@@ -30,7 +30,7 @@ See the full breakdown with visuals → [muzeeb-urrahaman.vercel.app/playground]
 
 
 
-### Research
+### 🔷 Research
 
 - **[AI UX Audit Assistant](https://drive.google.com/file/d/1osJ8y-ThFUC7ma7ysYYITCp2vPAlkton/view?usp=sharing)** — a Claude Skill that audits interfaces for accessibility issues and produces fix recommendations (download & import in Claude).
 - **Anchor** — mobile app concept, in research.
@@ -38,7 +38,7 @@ See the full breakdown with visuals → [muzeeb-urrahaman.vercel.app/playground]
 
 
 
-### What I Work With
+### 🔷 What I Work With
 
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
@@ -51,7 +51,7 @@ See the full breakdown with visuals → [muzeeb-urrahaman.vercel.app/playground]
 
 
 
-### GitHub Activity
+### 🔷 GitHub Activity
 
 <div align="left">
   <a href="https://commit-history.com/MUZEEBURRAHAMAN">
