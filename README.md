@@ -36,7 +36,7 @@ See the full breakdown with visuals → [muzeeb-urrahaman.vercel.app/playground]
 - **Anchor** — mobile app concept, in research.
 - **Photoly** — mobile app concept, in research.
 
-<br/>
+
 
 ### What I Work With
 
@@ -49,7 +49,7 @@ See the full breakdown with visuals → [muzeeb-urrahaman.vercel.app/playground]
   <img src="https://img.shields.io/badge/UX%20Research-111111?style=flat-square" alt="UX Research"/>
 </p>
 
-<br/>
+
 
 ### GitHub Activity
 
