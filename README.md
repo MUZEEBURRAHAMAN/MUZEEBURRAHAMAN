@@ -28,7 +28,7 @@ Product Designer with 4.5+ years of experience designing AI, SaaS, and B2B produ
 
 See the full breakdown with visuals → [muzeeb-urrahaman.vercel.app/playground](https://muzeeb-urrahaman.vercel.app/playground.html)
 
-<br/>
+
 
 ### Research
 
